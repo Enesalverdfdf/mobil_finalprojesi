@@ -1,0 +1,41 @@
+{
+    "file_reading" : [
+
+      {
+        "name" : "Enes Alveroglu" ,
+        "age" : "21",
+        "teams" : "Galatasaray"
+      },
+  {
+   "name" : "Atilla Uysal" ,
+   "age" : "22",
+   "teams" : "Fenerbahçe"
+ },
+ {
+    "name":"Hakan ilhan",
+    "age":"23",
+    "teams":"Bursaspor"
+ },
+ {
+    "name" : "Edip Akdemir" ,
+     "age" : "25",
+     "teams" : "Beşiktaş"
+    
+  },
+ {
+    "name":"Cenk Aydın",
+    "age":"24",
+    "teams":"Galatasaray"
+ },
+ {
+    "name":"Furkan Öztürk",
+    "age":"18",
+    "teams":"Fenerbahçe"
+ },
+ {
+    "name":"Ulaş Deniz",
+    "age":"27",
+    "teams":"Konyaspor"
+ }
+      ]
+}
